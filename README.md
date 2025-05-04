@@ -2,8 +2,6 @@
   <img src="https://github.com/COMP4702-UQ/Pracs-notebook/blob/main/src/image.png">
 </div>
 
-# COMP4702 2025 - Pracs Notebook
-
 ## Introduction
 
 Welcome to the COMP4702 course! This repository contains Jupyter Notebook files that serve as a starter code for the prac sheet. To work with these notebooks, you have multiple options:
