@@ -1,6 +1,6 @@
 # COMP4702 2025 - Pracs Notebook
 <div align="center">
-  <img src="https://github.com/COMP4702-UQ/Pracs-notebook/src/image.png">
+  <img src="https://github.com/COMP4702-UQ/Pracs-notebook/blob/main/src/image.png">
 </div>
 
 ## Introduction
